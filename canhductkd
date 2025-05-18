@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Võ Thuật Thái Hải – Kết Hợp AI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #222;
+    }
+    img {
+      max-width: 90%;
+      border-radius: 12px;
+      margin-top: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    .cta {
+      margin-top: 20px;
+      background-color: #007bff;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    .cta:hover {
+      background-color: #0056b3;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Võ Thuật Thái Hải 🥋 + Trí Tuệ Nhân Tạo 🤖</h1>
+  <p>Ứng dụng AI để lan toả tinh hoa võ thuật Việt</p>
+
+  <img src="https://source.unsplash.com/800x400/?martial-arts,ai" alt="AI Võ Thuật">
+
+  <div>
+    <button class="cta">Tìm hiểu thêm</button>
+  </div>
+
+  <footer>
+    📩 Liên hệ: canhductkd@vothuat.ai
+  </footer>
+
+</body>
+</html>
